@@ -2,6 +2,7 @@
 
 # Gabriel Rivera
 # CYB 125
+# Fall 2026
 
 # Step 3 - Create the Report Header
 echo "=================================="
